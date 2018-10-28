@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: DejaVuSansMono.h
-Description: DejaVu Sans-Serif Monospace font for DisplayCore
+Description: DejaVu Sans-Serif Monospace
